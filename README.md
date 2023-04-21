@@ -9,7 +9,6 @@ This project uses the K-Means clustering algorithm to perform customer segmentat
   - pandas 
   - numpy 
   - matplotlib.pyplot 
-  - seaborn 
   - sklearn.cluster.KMeans 
   - sklearn.preprocessing.StandardScaler 
   - sklearn.metrics.silhouette_score 
