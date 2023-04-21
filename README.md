@@ -4,3 +4,12 @@ This project uses the K-Means clustering algorithm to perform customer segmentat
 
  - Dataset: 'Mall_Customers.csv' 
  - link to dataset: https://github.com/ArinB/MSBA-CA-Data/raw/main/CA06/Mall_Customers.csv
+ 
+ Libraries Used:
+  - pandas 
+  - numpy 
+  - matplotlib.pyplot 
+  - seaborn 
+  - sklearn.cluster.KMeans 
+  - sklearn.preprocessing.StandardScaler 
+  = sklearn.metrics.silhouette_score 
