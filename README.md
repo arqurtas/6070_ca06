@@ -12,4 +12,4 @@ This project uses the K-Means clustering algorithm to perform customer segmentat
   - seaborn 
   - sklearn.cluster.KMeans 
   - sklearn.preprocessing.StandardScaler 
-  = sklearn.metrics.silhouette_score 
+  - sklearn.metrics.silhouette_score 
